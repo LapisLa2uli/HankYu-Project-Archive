@@ -1,0 +1,11 @@
+Time taken for different lengths of words:
+2: 3.12s
+3: 36.88s
+4: 14.51s
+5: 23.76s
+6: 13.2s
+7: 59.76s
+8: 58.41s
+9: 54.8s
+10: none
+11: 29.22s
